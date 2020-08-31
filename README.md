@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9621c9603b9f42bb872153e7cc7cc54b)](https://app.codacy.com/manual/UnkleTayo/expense-tracker?utm_source=github.com&utm_medium=referral&utm_content=UnkleTayo/expense-tracker&utm_campaign=Badge_Grade_Dashboard)
+
 In the project directory, you can run:
 
 ### `yarn start`
